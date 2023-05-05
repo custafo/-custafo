@@ -4,12 +4,12 @@ Hello World!
 
 :technologist: My name is Gustavo Pereira!
 
-:bricks: I am a Computer Science student and a beginner in the dev world, trying my best tho.
-
-:seedling: Hope we can be friends or maybe coworkers! 
+I am a Computer Science student and a beginner in the dev world, trying my best tho.
 
 :hammer::memo:Currently I'm only used to Java, but I'm planning to go through C# and JavaScript.
 
+
+:seedling: Hope we can be friends or maybe coworkers! 
 
  —ฅ/ᐠ. ̫ .ᐟ\ฅ —
  
