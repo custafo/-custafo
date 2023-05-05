@@ -1,6 +1,8 @@
 # Hello World!
 
 :technologist: My name is Gustavo Pereira!
+
+
 :bricks: I am a Computer Science student and a beginner in the dev world, trying my best tho.
 
 :hammer::memo:Currently I'm used to ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white), but I'm willing to learn  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) and ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E).
