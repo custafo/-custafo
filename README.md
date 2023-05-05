@@ -2,8 +2,8 @@
 
 Hello World!
 
-My name is Gustavo Pereira. I study Computer Science and I'm a beginner in the dev world, trying my best tho.
-Hope we can be friends or coworkers! :D <3
+My name is Gustavo Pereira. I am a Computer Science student and a beginner in the dev world, trying my best tho.
+Hope we can be friends or coworkers! :D
 
 Currently I'm only used to Java, but I'm planning to go through C# and JavaScript.
 
