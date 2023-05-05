@@ -1,6 +1,4 @@
-# ~ custafo
-
-Hello World!
+# Hello World!
 
 :technologist: My name is Gustavo Pereira!
 
