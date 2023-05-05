@@ -8,7 +8,7 @@
 
 :seedling: Hope we can be friends or maybe coworkers! 
 
- —ฅ/ᐠ. ̫ .ᐟ\ฅ —
+ —ฅ/ᐠ. ̫ .ᐟ\ฅ—
  Connect with me!
  
 <a href = "mailto:gustavopereiraplo2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
