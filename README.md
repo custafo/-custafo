@@ -3,6 +3,7 @@
 <p>
  —ฅ/ᐠ. ̫ .ᐟ\ฅ—
  Connect with me!
+ —ฅ/ᐠ. ̫ .ᐟ\ฅ—
 </p>
 <a href = "mailto:gustavopereiraplo2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/gustavo-pereira-oliveira-lima-29325820b/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
