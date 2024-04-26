@@ -1,5 +1,5 @@
-#👋 Hi, I’m Gustavo Lima!
-- 👀 I’m an undergraduate student in Computer Science at UNICAP
+# Hi, I’m Gustavo Lima!
+👋 I’m an undergraduate student in Computer Science at UNICAP
 <p>
  —ฅ/ᐠ. ̫ .ᐟ\ฅ—
  Connect with me!
